@@ -13,3 +13,5 @@ animate.css https://daneden.github.io/animate.css (如果不需要动画效果�
 
 使用自定义动画，自定义延迟时间加载   
 ```DL_IMAGE.loadImage('swing',1000);  ```    
+## 预览    
+demo（http://htmlpreview.github.io/?https://github.com/toeasy/deferred-load-image/blob/master/demo/demo.html）
